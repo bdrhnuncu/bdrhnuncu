@@ -11,7 +11,7 @@
 - 💞️I'm just improving myself in software
 - 👀 I’m looking to good projects...
 - 📫 instagram : @bdrhnuncu 
-- **TECHNOLOGİES**
+- --**TECHNOLOGİES**--
 - HTML
 - CSS
 - .NET
