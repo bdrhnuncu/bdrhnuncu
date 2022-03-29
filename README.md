@@ -15,6 +15,6 @@
 - HTML
 - CSS
 - .NET
-- Flutter & Dart (coming soon...)
+- Flutter & Dart (**coming soon...**)
 
 
