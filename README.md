@@ -12,9 +12,9 @@
 - 💞️ I’m looking to good projects...
 - 📫 instagram : @bdrhnuncu 
 - -TECHNOLOGİES-
-- html
-- css
-- .net
-- 
+- HTML
+- CSS
+- .NET
+- Flutter & Dart (coming soon...)
 
 
