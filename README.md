@@ -15,6 +15,7 @@
 - HTML
 - CSS
 - .NET
+- Entity Framework
 
 
 
