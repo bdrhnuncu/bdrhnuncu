@@ -15,6 +15,6 @@
 - N layer Architecture
 - Fluent Validation
 - Solid 
-
+- Autofac
 
 
