@@ -2,6 +2,7 @@
 <h1 align="center">Hi everyone 👋, my name is Bedirhan</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
+- I am currently doing a project using CQRS pattern in Onion Architecture.
 - 🌍 I live in Turkey
 - 📫 How to reach me **bdrhn35@outlook.com**
 - 👀 Take a look my repo
