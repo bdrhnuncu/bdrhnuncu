@@ -1,19 +1,7 @@
 
+# Hi everyone 👋 my name is Bedirhan 
+## Full-time Backend Developer 👨‍💻 looking for a job👀
+### I am currently developing a project on Onion Architecture using CQRS pattern.
 
-
-
-
-
-
-- .NET
-- .NET Core 
-- Rest API
-- Entity Framework Core
-- OOP
-- AutoMapper
-- Fluent Validation
-- Autofac
-- Solid 
-- CQRS Pattern
-- N layer Architecture
-- Onion Architecture
+- 🌍 I live in Turkey
+- 📫 You can reach me at bdrhn35@outlook.com 
