@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi everyone 👋, my name is Bedirhan</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Junior Dotnet Developer</h3>
 
 - I am currently doing a project using CQRS pattern in Onion Architecture.
 - 🌍 I live in Turkey
